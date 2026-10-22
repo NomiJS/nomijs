@@ -1,7 +1,7 @@
 
 {
   "name": "nomijs",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A lightweight JavaScript full-stack framework.",
   "type": "module",
   "main": "./index.js",
